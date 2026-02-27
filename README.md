@@ -15,10 +15,6 @@ I enjoy working with **game development, Python, C#, and content creation.**
   <a href="https://github.com/SEU_USUARIO_AQUI">
     <img src="https://img.shields.io/badge/GitHub-ANDRE_LOPES-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.youtube.com/@SEU_CANAL">
-    <img src="https://img.shields.io/badge/YouTube-CONTENT_CREATION-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
 
 ---
 
@@ -42,7 +38,6 @@ I enjoy working with **game development, Python, C#, and content creation.**
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 ---
 
