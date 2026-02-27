@@ -46,6 +46,18 @@ I enjoy working with **game development, Python, C#, and content creation.**
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Andre-wellington&show_icons=true&theme=tokyonight&count_private=true" />
+  
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Andre-wellington&theme=tokyonight" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-wellington&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ## 🚀 Philosophy
 
 > _"Every line of code is a step toward understanding how the world works. 
